@@ -1,10 +1,10 @@
-package ÊµÑµ3;
+package å®žè®­3;
 
 public class test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		person per=new person("ÕÅÈý");
+		person per=new person("å¼ ä¸‰");
 		lamp lam=new lamp();
 		coumputer comput=new coumputer("lenovos");
 		per.doOn(lam);
