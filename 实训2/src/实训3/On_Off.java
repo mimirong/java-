@@ -1,4 +1,4 @@
-package ʵѵ3;
+package 实训3;
 
 public interface On_Off {
 	public static final int ON=1;
